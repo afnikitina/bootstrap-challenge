@@ -1,3 +1,13 @@
 h1 {
-	color: #205a0f;
+	color: #972f79;
+}
+
+button{
+	border:1px  solid #304fbb;
+	background: #304fbb;
+	color: white;
+}
+
+.hello {
+	background-color: #cbc5ea;
 }
